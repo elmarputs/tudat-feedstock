@@ -4,3 +4,4 @@ channel_targets:
   - elmarputs main
 boost_cpp:
   - 1.69.0
+  - 1.70.0

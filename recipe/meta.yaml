@@ -7,7 +7,7 @@ package:
 
 source:
   git_url: https://github.com/elmarputs/tudat
-  git_rev: 6275cc16ec494777e82498eeea868d8814b65b0f
+  git_rev: fb1acbfeb897db7677e0370c0aef926d3c13bbaa
 
 build:
   # A non-negative integer representing the build number of the package.
@@ -16,7 +16,7 @@ build:
   #  and versions to determine the latest one. This is important because
   #  new builds that contain bug fixes for the way a package is built may be
   #  added to a repository.
-  number: 2
+  number: 3
 
 requirements:
   build:

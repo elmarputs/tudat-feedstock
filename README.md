@@ -27,10 +27,17 @@ Current build status
         <table>
           <thead><tr><th>Variant</th><th>Status</th></tr></thead>
           <tbody><tr>
-              <td>linux_64</td>
+              <td>linux_64_boost_cpp1.69.0</td>
               <td>
                 <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=2&branchName=master">
-                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=linux&configuration=linux_64_" alt="variant">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.69.0" alt="variant">
+                </a>
+              </td>
+            </tr><tr>
+              <td>linux_64_boost_cpp1.70.0</td>
+              <td>
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=2&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=linux&configuration=linux_64_boost_cpp1.70.0" alt="variant">
                 </a>
               </td>
             </tr>
