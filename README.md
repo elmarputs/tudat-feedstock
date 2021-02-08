@@ -20,7 +20,7 @@ Current build status
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+          <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=2&branchName=master">
             <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master">
           </a>
         </summary>
@@ -29,50 +29,22 @@ Current build status
           <tbody><tr>
               <td>linux_64</td>
               <td>
-                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=2&branchName=master">
                   <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=linux&configuration=linux_64_" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_boost_cpp1.69.0</td>
+              <td>osx_64</td>
               <td>
-                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
-                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.69.0" alt="variant">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=2&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_" alt="variant">
                 </a>
               </td>
             </tr><tr>
-              <td>osx_64_boost_cpp1.70.0</td>
+              <td>win_64</td>
               <td>
-                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
-                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.70.0" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>osx_64_boost_cpp1.71.0</td>
-              <td>
-                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
-                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.71.0" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_boost_cpp1.69.0</td>
-              <td>
-                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
-                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_boost_cpp1.69.0" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_boost_cpp1.70.0</td>
-              <td>
-                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
-                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_boost_cpp1.70.0" alt="variant">
-                </a>
-              </td>
-            </tr><tr>
-              <td>win_64_boost_cpp1.71.0</td>
-              <td>
-                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
-                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_boost_cpp1.71.0" alt="variant">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=2&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_" alt="variant">
                 </a>
               </td>
             </tr>
