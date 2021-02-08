@@ -9,7 +9,7 @@ cdt_name:
 channel_sources:
 - tudat-team, conda-forge, defaults
 channel_targets:
-- elmarputs
+- elmarputs main
 cxx_compiler:
 - gxx
 cxx_compiler_version:
