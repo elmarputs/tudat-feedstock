@@ -1,7 +1,7 @@
 channel_sources:
   - tudat-team, conda-forge, defaults
 channel_targets:
-  - tudat-team main
+  - elmarputs
 boost_cpp:
   - 1.69.0
   - 1.70.0 # [not linux]

@@ -5,11 +5,9 @@ Home: http://tudat.tudelft.nl/
 
 Package license: BSD
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/elmarputs/tudat-feedstock/blob/master/LICENSE.txt)
 
 Summary: A C++ platform to perform astrodynamics and space research.
-
-
 
 Current build status
 ====================
@@ -22,8 +20,8 @@ Current build status
     <td>
       <details>
         <summary>
-          <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
-            <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master">
+          <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+            <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master">
           </a>
         </summary>
         <table>
@@ -31,50 +29,50 @@ Current build status
           <tbody><tr>
               <td>linux_64</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=linux&configuration=linux_64_" alt="variant">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=linux&configuration=linux_64_" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_boost_cpp1.69.0</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.69.0" alt="variant">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.69.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_boost_cpp1.70.0</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.70.0" alt="variant">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.70.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>osx_64_boost_cpp1.71.0</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.71.0" alt="variant">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=osx&configuration=osx_64_boost_cpp1.71.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_64_boost_cpp1.69.0</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_boost_cpp1.69.0" alt="variant">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_boost_cpp1.69.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_64_boost_cpp1.70.0</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_boost_cpp1.70.0" alt="variant">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_boost_cpp1.70.0" alt="variant">
                 </a>
               </td>
             </tr><tr>
               <td>win_64_boost_cpp1.71.0</td>
               <td>
-                <a href="https://dev.azure.com/tudat-team/feedstock-builds/_build/latest?definitionId=&branchName=master">
-                  <img src="https://dev.azure.com/tudat-team/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_boost_cpp1.71.0" alt="variant">
+                <a href="https://dev.azure.com/elmarputs/feedstock-builds/_build/latest?definitionId=1&branchName=master">
+                  <img src="https://dev.azure.com/elmarputs/feedstock-builds/_apis/build/status/tudat-feedstock?branchName=master&jobName=win&configuration=win_64_boost_cpp1.71.0" alt="variant">
                 </a>
               </td>
             </tr>
@@ -90,18 +88,18 @@ Current release info
 
 | Name | Downloads | Version | Platforms |
 | --- | --- | --- | --- |
-| [![Conda Recipe](https://img.shields.io/badge/recipe-tudat-green.svg)](https://anaconda.org/tudat-team/tudat) | [![Conda Downloads](https://img.shields.io/conda/dn/tudat-team/tudat.svg)](https://anaconda.org/tudat-team/tudat) | [![Conda Version](https://img.shields.io/conda/vn/tudat-team/tudat.svg)](https://anaconda.org/tudat-team/tudat) | [![Conda Platforms](https://img.shields.io/conda/pn/tudat-team/tudat.svg)](https://anaconda.org/tudat-team/tudat) |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-tudat-green.svg)](https://anaconda.org/elmarputs/tudat) | [![Conda Downloads](https://img.shields.io/conda/dn/elmarputs/tudat.svg)](https://anaconda.org/elmarputs/tudat) | [![Conda Version](https://img.shields.io/conda/vn/elmarputs/tudat.svg)](https://anaconda.org/elmarputs/tudat) | [![Conda Platforms](https://img.shields.io/conda/pn/elmarputs/tudat.svg)](https://anaconda.org/elmarputs/tudat) |
 
 Installing tudat
 ================
 
-Installing `tudat` from the `tudat-team` channel can be achieved by adding `tudat-team` to your channels with:
+Installing `tudat` from the `elmarputs` channel can be achieved by adding `elmarputs` to your channels with:
 
 ```
-conda config --add channels tudat-team
+conda config --add channels elmarputs
 ```
 
-Once the `tudat-team` channel has been enabled, `tudat` can be installed with:
+Once the `elmarputs` channel has been enabled, `tudat` can be installed with:
 
 ```
 conda install tudat
@@ -110,7 +108,7 @@ conda install tudat
 It is possible to list all of the versions of `tudat` available on your platform with:
 
 ```
-conda search tudat --channel tudat-team
+conda search tudat --channel elmarputs
 ```
 
 
@@ -124,9 +122,9 @@ package version, please fork this repository and submit a PR. Upon submission,
 your changes will be run on the appropriate platforms to give the reviewer an
 opportunity to confirm that the changes result in a successful build. Once
 merged, the recipe will be re-built and uploaded automatically to the
-`tudat-team` channel, whereupon the built conda packages will be available for
-everybody to install and use from the `tudat-team` channel.
-Note that all branches in the tudat-team/tudat-feedstock are
+`elmarputs` channel, whereupon the built conda packages will be available for
+everybody to install and use from the `elmarputs` channel.
+Note that all branches in the elmarputs/tudat-feedstock are
 immediately built and any created packages are uploaded, so PRs should be based
 on branches in forks and branches in the main repository should only be used to
 build distinct package versions.
