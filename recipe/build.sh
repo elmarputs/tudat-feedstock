@@ -12,7 +12,7 @@ if [[ "$OSTYPE" == "darwin"* ]]; then
 else
   ENABLE_TESTS=true
   BUILD_ESTIMATION_TOOLS=true
-  NPROC=5
+  NPROC=2
   SKIP_JSON_TESTS=true
 fi
 

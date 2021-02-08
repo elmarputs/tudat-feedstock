@@ -10,13 +10,13 @@ conda_forge_output_validation: true
 provider:
   linux: azure
   osx: none
-  win: azure
+  win: none
   linux_ppc64le: None
   linux_aarch64: None
 
 azure:
   # flag for forcing the building all supported providers
-  force: True
+  force: False
   # toggle for storing the conda build_artifacts directory (including the
   # built packages) as an Azure pipeline artifact that can be downloaded
   store_build_artifacts: True
