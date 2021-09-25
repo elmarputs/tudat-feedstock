@@ -2,6 +2,11 @@ github:
   user_or_org: elmarputs
 
 channels:
+  sources:
+  - tudat-team
+  - conda-forge
+  - defaults
+  
   targets:
   - [elmarputs, main]
 
@@ -18,3 +23,4 @@ azure:
   # toggle for storing the conda build_artifacts directory (including the
   # built packages) as an Azure pipeline artifact that can be downloaded
   store_build_artifacts: True
+  upload_packages: False

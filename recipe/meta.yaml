@@ -3,9 +3,8 @@ package:
   version: 3.0
 
 source:
-  path: ../
-#  git_url: ../
-#  git_rev: 3d8c4fb95f14bea516f97f3969feaea3578dd5a3
+  git_url: https://github.com/elmarputs/tudat.git
+  git_rev: d2b7b82b3f6841e4d1e81526f94a290cc692b8a8
 
 build:
   # A non-negative integer representing the build number of the package.
